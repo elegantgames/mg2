@@ -1,5 +1,5 @@
 ﻿CACHE MANIFEST
-#1632139023
+#1632487720
 data.js
 c2runtime.js
 jquery-2.1.1.min.js
@@ -10,13 +10,14 @@ images/sprite2-sheet0.png
 images/point-sheet0.png
 images/kashi-sheet0.png
 images/winboard-sheet0.png
+images/winboard-sheet1.png
 images/sprite-sheet0.png
 images/blackwhitebk-sheet0.png
 images/blackwhitebk-sheet1.png
 images/sprite3-sheet0.png
 images/homebtn-sheet0.png
 images/sprite4-sheet0.png
-images/eyeicon-sheet0.png
+images/choobejadooicon-sheet0.png
 images/lampicon-sheet0.png
 images/ball1-sheet0.png
 images/choobmagic-sheet0.png
@@ -24,9 +25,10 @@ images/choobmagic-sheet1.png
 images/choobmagic-sheet2.png
 images/gainchoobjadoo-sheet0.png
 images/electron-sheet0.png
-images/battery-sheet0.png
-images/battery-sheet1.png
-images/ballshoot-sheet0.png
+images/batteryicon-sheet0.png
+images/batteryicon-sheet1.png
+images/batteryicon-sheet2.png
+images/ballshoot1-sheet0.png
 images/ballshootanimate-sheet0.png
 images/ballshootanimate-sheet1.png
 images/ballshootanimate-sheet2.png
@@ -36,6 +38,7 @@ images/noorebarhordebattery-sheet0.png
 images/noorebattery-sheet0.png
 images/noorebattery-sheet1.png
 images/noorebattery-sheet2.png
+images/handguid-sheet0.png
 media/foliage1.m4a
 media/foliage1.ogg
 media/foliage2.m4a
